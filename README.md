@@ -19,7 +19,7 @@ These projects demonstrate my ability to turn raw data into actionable insights.
 ## 📂 Featured Projects
 
 ### 1. ✈ Airline Passenger Satisfaction Analysis
-**Repo:** [[Airline-Satisfaction-App](https://github.com/Mash2488/M8-Project-Airline-Satisfaction-Predictions)](https://github.com/Mash2488/Airline-Satisfaction-App)  
+**Repo:** [[[Airline-Satisfaction-App](https://github.com/Mash2488/M8-Project-Airline-Satisfaction-Predictions)](https://github.com/Mash2488/Airline-Satisfaction-App)  ](https://github.com/Mash2488/M8-Project-Airline-Satisfaction-Predictions)
 **Summary:** Analyzed passenger survey data to uncover key drivers of satisfaction in airline travel.  
 **Skills:** Python, Pandas, Seaborn, Matplotlib, Machine Learning  
 **Highlights:**
