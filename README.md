@@ -60,6 +60,17 @@ These projects demonstrate my ability to turn raw data into actionable insights.
 - Applied VIF checks to handle multicollinearity
 - Achieved strong predictive performance with an optimized regression model
 
+- ## SQL Projects
+
+- **MIMIC Health – SQL Analysis**  
+  [[View Project Repo](https://github.com/Mash2488/MIMIC-Health-SQL)  ](https://github.com/Mash2488/MIMIC-SQL-Project)
+  Focused on ICU patient data (MIMIC-III/IV). Explores procedures, LOS distributions, and clinical outcomes using SQL.
+
+- **Chinook SQL Analytics**  
+  [[View Project Repo](https://github.com/Mash2488/Chinook-SQL) ](https://github.com/Mash2488/Chinook-SQL-Project) 
+  Music store dataset analysis (2009–2013) answering key business questions on revenue, artists, genres, and customer trends.
+
+
 ---
 
 ## 📫 Contact
