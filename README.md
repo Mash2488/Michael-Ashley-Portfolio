@@ -41,7 +41,7 @@ These projects demonstrate my ability to turn raw data into actionable insights.
 ---
 
 ### 3. 🎓 College Admissions Analysis
-**Repo:** [[M6-Data-Viz](https://github.com/Mash2488/M6-Data-Viz)  ](https://github.com/Mash2488/M6-Project)
+**Repo:** [[[M6-Data-Viz](https://github.com/Mash2488/M6-Data-Viz)  ](https://github.com/Mash2488/M6-Project)](https://github.com/Mash2488/College-Admission-Analysis.git)
 **Summary:** Compared public vs. private school admission and graduation trends.  
 **Skills:** Pandas, Seaborn, Hypothesis Testing, Data Visualization  
 **Highlights:**
